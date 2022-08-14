@@ -16,6 +16,9 @@ h1 {
     font-size: clamp(3.5rem, 12vw + 1rem, 8rem);
     font-weight: 200;
 }
+.content {
+    font-size: 25px;
+}
 .container {
     padding: 100px 16px;
     display: flex;
