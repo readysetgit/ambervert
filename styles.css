@@ -18,6 +18,7 @@ h1 {
 }
 .content {
     font-size: 25px;
+    margin-top: 80px;
 }
 .container {
     padding: 100px 16px;
@@ -29,4 +30,11 @@ h1 {
 
 .content {
     max-width: 686px;
+}
+
+
+.footnote {
+    margin-top: 300px;
+    background: #f9eeee;
+    padding: 6px;
 }
